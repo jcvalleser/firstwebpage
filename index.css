@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    
+}
+.greetingContainer {
+    background-color: blue;
+    font-size: 10rem;
+}
+.greetingContainer:hover {
+    background-color: red;
+}
+
+div.emphasize {
+    font-weight: bold;
+}
+.greetingContainer .greetingParagraph {
+    margin-top: 0;
+}
